@@ -230,6 +230,7 @@ footer .socials small {
   .post .content {
     flex-wrap: wrap;
   }
+  /* FEATURES */
   .features .title {
     text-align: center;
     font-size: 18px;
